@@ -1,0 +1,25 @@
+#BarraNav a
+{
+    color: white;
+}
+nav
+{
+    background-color: rgb(0, 0, 0);
+    box-shadow: inset;
+    box-shadow: 0 0 15px rgb(105, 105, 105);
+}
+#ContIndex
+{
+    margin: 40px;
+}
+#CaraNoRara
+{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+#CaraNoRara img
+{  
+    height: 300px;
+    width: 300px;
+}
